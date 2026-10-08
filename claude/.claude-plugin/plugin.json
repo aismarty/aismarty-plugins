@@ -1,0 +1,19 @@
+{
+  "name": "aismarty",
+  "displayName": "AI Smarty",
+  "version": "0.1.0",
+  "description": "Set up and run your AI Smarty AI agent from Claude: build it from your website, test it, review activity and install the widget.",
+  "author": {
+    "name": "AI Smarty"
+  },
+  "homepage": "https://aismarty.com",
+  "license": "MIT",
+  "keywords": [
+    "ai-agent",
+    "customer-support",
+    "lead-capture",
+    "website-widget",
+    "knowledge-base"
+  ],
+  "repository": "https://github.com/aismarty/aismarty-plugins"
+}

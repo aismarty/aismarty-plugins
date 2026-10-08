@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aismarty": {
+      "type": "http",
+      "url": "https://aismarty.com/api/mcp"
+    }
+  }
+}

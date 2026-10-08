@@ -1,0 +1,12 @@
+{
+  "name": "aismarty",
+  "owner": { "name": "AI Smarty" },
+  "metadata": { "description": "Official AI Smarty plugins for Claude Code." },
+  "plugins": [
+    {
+      "name": "aismarty",
+      "source": "./claude",
+      "description": "Set up and run your AI Smarty AI agent from Claude: build it from your website, test it, review activity and install the widget."
+    }
+  ]
+}
